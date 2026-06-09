@@ -24,7 +24,7 @@ CodeAlpha_Hangman_Game/
 └── Screenshots/
 ▶️ How to Run
 Clone the repository
-git clone https://github.com/AfreenFasiha/CodeAlpha_HangmanGame.git
+git clone https://github.com/chidekpattanaik/CodeAlpha_HangmanGame.git
 Navigate to the project folder
 cd CodeAlpha_HangmanGame
 Run the program
