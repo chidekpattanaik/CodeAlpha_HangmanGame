@@ -1,6 +1,6 @@
 # ============================================================
 # CodeAlpha Internship — Task 1: Hangman Game
-# Author  : AFREEN FASIHA | ID: CA/DF1/86093
+# Author  : CHIDEK PATTANAIK | ID: CA/DF1/86102
 # Domain  : Python Programming
 # ============================================================
 
