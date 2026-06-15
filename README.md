@@ -82,7 +82,7 @@ Developed as part of the CodeAlpha Python Programming Internship Program.
 
 ---
 
-## 👩‍💻 Author
+## 👨‍💻 Author
 
 Chidek Pattanaik
 
